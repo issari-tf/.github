@@ -2,11 +2,11 @@
 
 Issari.TF is a community-driven Team Fortress 2 (TF2) server focused on transparency, collaboration, and open-source development. Whether you're a player, developer, or modder, you're welcome here!
 
-🌐 About Us
+### 🌐 About Us
 
 Issari.TF is more than just a server — it's a platform for TF2 enthusiasts to contribute, shape, and improve the in-game experience. We provide open-source access to many of our server-side tools and configurations, giving you the freedom to suggest changes, fix bugs, or build entirely new features.
 
-🚀 Our Goals
+### 🚀 Our Goals
 
 - ✅ Provide a fun, fair, and stable TF2 gameplay experience.
 
@@ -16,7 +16,7 @@ Issari.TF is more than just a server — it's a platform for TF2 enthusiasts to 
 
 - 💬 Build a friendly, inclusive community of TF2 fans and developers.
 
-🧩 How You Can Contribute
+### 🧩 How You Can Contribute
 
 - Fork the repository and submit pull requests with improvements or features.
 
@@ -24,7 +24,7 @@ Issari.TF is more than just a server — it's a platform for TF2 enthusiasts to 
 
 - Join our Discord to chat with other contributors and players.
 
-📣 Join the Community
+### 📣 Join the Community
 
 Stay connected with the Issari.TF community:
 
