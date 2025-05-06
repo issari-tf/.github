@@ -28,6 +28,10 @@ Issari.TF is more than just a server — it's a platform for TF2 enthusiasts to 
 
 Stay connected with the Issari.TF community:
 
-- 💬 [Discord](https://discord.gg/pBYAqdhMBB)
+- 💬 Join our [Discord](https://discord.gg/pBYAqdhMBB) — Chat, collaborate, and get support.
 
-- 🧠 Contribute on GitHub
+- 💖 Support us on [Patreon]() — Help keep the server running and unlock exclusive perks.
+
+- ☕ Sponsor [Aidan Sanders](https://github.com/sponsors/Aidan-Sanders) on Github, or Donate with [Ko-Fi](https://ko-fi.com/asanders) — Every bit helps!
+
+- 🧠 Contribute on GitHub — Fork, improve, and be a part of the dev team.
